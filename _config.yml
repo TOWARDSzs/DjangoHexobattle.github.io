@@ -5,10 +5,10 @@
 # Site
 title: Hamlet's Backgarden
 subtitle: Focusing on major will bring leisure hobbies.
-description: share protocol on bioinformatics
+description: share protocols on bioinformatics
 keywords:
-author: Zh-S
-language: en
+author: Hamlet_Zhengs
+language: zh-Hans
 timezone: China/Beijing
 
 # URL
@@ -44,7 +44,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
-highlight:
+highlight: true
   enable: true
   line_number: true
   auto_detect: false
